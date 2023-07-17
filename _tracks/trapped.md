@@ -4,7 +4,7 @@ created: "2021-07-21T11:51:36+03:00"
 artist: "Boards of Canada"
 album: "A Few Old Tunes"
 date: "1996"
-link: "https://www.youtube-nocookie.com/embed/ixoH1vuAXXc"
+link: "ixoH1vuAXXc"
 ---
 
 Should I listen to what you say?

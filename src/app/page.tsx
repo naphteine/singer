@@ -19,13 +19,13 @@ export default function Home() {
       <h1>{display.title}</h1>
       <h2>{display.artist}</h2>
       <h3>
-        {display.album} - {display.date}
+        {display.album} {display.date}
       </h3>
 
       <iframe
         width="560"
         height="315"
-        src={display.link}
+        src={`https://www.youtube-nocookie.com/embed/${display.link}`}
         title="YouTube video player"
         frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

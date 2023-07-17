@@ -1,6 +1,9 @@
 ---
 title: "A Question Isn't Answered"
 created: "2021-09-02T04:36:54+03:00"
+artist: "Temples"
+album: "Sun Structures"
+link: "AyZf0mKXZr8"
 ---
 
 Ah, ah, ah, ah...
