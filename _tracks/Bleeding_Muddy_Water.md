@@ -1,9 +1,10 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2021-03-26T10:16:54+03:00
-
-====== Bleeding Muddy Water ======
-Created Friday 26 March 2021
+---
+title: "Bleeding Muddy Water"
+created: "2021-03-26T10:16:54+03:00"
+artist: "Mark Lanegan"
+album: "Blues Funeral"
+date: "2012"
+---
 
 Lord, now the rain done come
 Lord, now the rain done come
