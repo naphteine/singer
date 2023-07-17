@@ -1,10 +1,11 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2020-11-02T14:02:44+03:00
-
-====== Blood on my Name ======
-Created Monday 02 November 2020
-Original: 2019-03-20
+---
+title: "Blood on My Name"
+created: "2019-03-20T00:00:00+03:00"
+artist: "The Brothers Bright"
+album: "A Song Treasury"
+date: "2012-01-14"
+link: "mPSUtaW_oBo"
+---
 
 There's a reckoning a'comin
 And it burns beyond the grave
