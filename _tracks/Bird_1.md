@@ -1,9 +1,8 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2021-08-28T23:02:54+03:00
-
-====== Bird 1 ======
-Created Saturday 28 August 2021
+---
+title: "Bird 1"
+created: "2021-08-28T23:02:54+03:00"
+artist: "Underworld"
+---
 
 Bat bit and ten (?)
 White stick with a red light
