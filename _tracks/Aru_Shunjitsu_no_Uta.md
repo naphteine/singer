@@ -1,9 +1,8 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2020-11-02T13:58:34+03:00
-
-====== Aru Shunjitsu no Uta ======
-Created Monday 02 November 2020
+---
+title: "Aru Shinjitsu no Uta"
+created: "2020-11-02T13:58:34+03:00"
+artist: "Rokugen Alice"
+---
 
 "Sekai wa hidoku minikuku aware nari"
 Dakara kimi wo mamorou to suru sekai kara kimi wo mamotte agetai
@@ -34,7 +33,6 @@ Yoru wo koete, yume mite
 Yagate futari mezameta nara
 Atarashii sekai wo tsugeru uta wo kasane awasete
 
-
 "The world is cruel, ugly, and pitiful"
 And so, I'll try to protect you, I want to protect you from the world
 "The world is secretly leading the two's future"
@@ -51,7 +49,7 @@ We'll add to the song that tells of the new end
 Those who know of the "Truth" on the underside of a certain truth
 Those who yell that the certain truth they were given is the "Truth"
 
-Time spins, the world asks questions to lead you astray 
+Time spins, the world asks questions to lead you astray
 To fight against the inescapable fate, that is the future
 
 The two of us will light the long night, wandering the dream of a short spring night
