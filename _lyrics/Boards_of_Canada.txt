@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2021-07-21T11:51:32+03:00
-
-====== Boards of Canada ======
-Created Wednesday 21 July 2021
-

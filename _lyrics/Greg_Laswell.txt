@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2021-03-26T10:19:12+03:00
-
-====== Greg Laswell ======
-Created Friday 26 March 2021
-

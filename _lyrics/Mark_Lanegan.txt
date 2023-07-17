@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2021-03-26T10:16:48+03:00
-
-====== Mark Lanegan ======
-Created Friday 26 March 2021
-

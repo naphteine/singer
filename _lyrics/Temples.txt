@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2020-11-02T14:00:22+03:00
-
-====== Temples ======
-Created Monday 02 November 2020
-
