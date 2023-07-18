@@ -1,9 +1,11 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2021-09-10T12:51:38+03:00
-
-====== Woke From Dreaming ======
-Created Friday 10 September 2021
+---
+title: "Woke From Dreaming"
+created: "2021-09-10T12:51:38+03:00"
+artist: "The Delgados"
+album: "Hate"
+date: "2002"
+link: "iV4ZJQZgWKc"
+---
 
 Woke from dreaming
 but it took convincing
