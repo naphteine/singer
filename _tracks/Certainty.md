@@ -1,9 +1,11 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2021-09-02T04:42:23+03:00
-
-====== Certainty ======
-Created Thursday 02 September 2021
+---
+title: "Certainty"
+created: "2021-09-02T04:42:23+03:00"
+artist: "Temples"
+album: "Volcano"
+date: "2017"
+link: "h6zdVaAe0OE"
+---
 
 I've got, I've got, the picture and the details
 Outside, under within the sights
