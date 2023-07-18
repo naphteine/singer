@@ -1,9 +1,11 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2021-09-02T07:55:01+03:00
-
-====== Born into the Sunset ======
-Created Thursday 02 September 2021
+---
+title: "Born Into the Sunset"
+created: "2021-09-02T07:55:01+03:00"
+artist: "Temples"
+album: "Volcano"
+date: "2017"
+link: "wlj486dZ40E"
+---
 
 I was born
 I was thrown into the sunset
