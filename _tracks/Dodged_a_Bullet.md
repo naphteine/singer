@@ -1,9 +1,11 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2021-03-26T10:19:19+03:00
-
-====== Dodged a Bullet ======
-Created Friday 26 March 2021
+---
+title: "Dodged a Bullet"
+created: "2021-03-26T10:19:19+03:00"
+artist: "Greg Laswell"
+album: "Everyone Thinks I Dodged A Bullet"
+date: "2016"
+link: "PPiFIejACyg"
+---
 
 [Verse 1]
 I'm not gonna try and make it even
@@ -58,4 +60,3 @@ And everyone thinks I dodged a bullet
 But I think I shot the gun
 And everyone thinks I dodged a bullet
 But I think I shot the gun
-
