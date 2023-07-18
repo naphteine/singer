@@ -1,9 +1,11 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2021-09-10T13:11:31+03:00
-
-====== Wicked Game ======
-Created Friday 10 September 2021
+---
+title: "Wicked Game"
+created: "2021-09-10T13:11:31+03:00"
+artist: "Emika"
+album: "Dva"
+date: "2013"
+link: "x-9Xr1a9LQ4"
+---
 
 No one could save me
 No one, no one could save me
